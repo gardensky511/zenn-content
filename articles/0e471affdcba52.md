@@ -2,8 +2,7 @@
 title: "SSHにおける公開鍵・秘密鍵を用いた認証方法をちゃんと理解しておく"
 emoji: "🔑"
 type: "tech"
-topics:
-  - "ssh"
+topics: ["ssh"]
 published: true
 published_at: "2022-06-13 15:00"
 ---

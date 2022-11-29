@@ -2,10 +2,7 @@
 title: "React で state は更新しても再レンダリングはしたくないときは useRef"
 emoji: "👏"
 type: "tech"
-topics:
-  - "reactnative"
-  - "react"
-  - "frontend"
+topics: ["reactnative", "react", "frontend"]
 published: true
 published_at: "2021-09-19 20:47"
 ---

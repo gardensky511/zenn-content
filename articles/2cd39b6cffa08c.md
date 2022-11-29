@@ -2,11 +2,7 @@
 title: "このプロパティ、型定義に存在しないけどエラーになる？ならない？~ TS と Structural Typing ~"
 emoji: "🦆"
 type: "tech"
-topics:
-  - "javascript"
-  - "typescript"
-  - "web"
-  - "frontend"
+topics: ["javascript", "typescript", "web", "frontend"]
 published: true
 published_at: "2022-09-24 18:01"
 ---
