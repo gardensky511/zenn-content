@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/luvmini511/zenn-content#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.144"
+    "zenn-cli": "^0.2.1"
   },
   "devDependencies": {
     "textlint": "^14.3.0",
