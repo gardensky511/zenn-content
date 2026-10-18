@@ -3,7 +3,7 @@ title: "AI 基礎① AI と ML・DL・LLM はそもそも何で、どういう�
 emoji: "🪆"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["ai", "machinelearning", "deeplearning", "llm"]
-published: false
+published: true
 ---
 
 ## 🌼 はじめに
