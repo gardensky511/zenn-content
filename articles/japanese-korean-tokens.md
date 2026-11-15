@@ -3,7 +3,7 @@ title: "AI 基礎② なぜ日本語は英語よりトークン消費量が多�
 emoji: "🧩"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["ai", "llm", "tokenizer", "nlp"]
-published: false
+published: true
 ---
 
 ## 🌼 はじめに
